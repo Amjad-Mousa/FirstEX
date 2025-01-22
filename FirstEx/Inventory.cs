@@ -55,4 +55,12 @@ public string DeleteProduct(string productName)
     else return "Product not found.";
 }
 
+public string SearchProduct(string productName)
+{
+    if (FindProduct(productName))
+    {
+        return $"Product found: {products.First(x => x.Name == productName).Name},Price:{products.First(x=>x.Name==productName)},Quantity: {products.First(x => x.Name == productName).Quantity}";
+    }
+    else return "Product not found.";
+}
 }
