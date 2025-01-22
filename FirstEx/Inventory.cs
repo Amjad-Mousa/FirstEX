@@ -45,5 +45,14 @@ public string EditProduct(string productName, string productPrice, string produc
     else return "Product not found.";
 }
 
+public string DeleteProduct(string productName)
+{
+    if (FindProduct(productName))
+    {
+        products.Remove(products.First(x=>x.Name == productName));
+        return "Product deleted successfully.";
+    }
+    else return "Product not found.";
+}
 
 }
