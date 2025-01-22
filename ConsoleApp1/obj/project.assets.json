@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/amjad/RiderProjects/C-_Ex1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/amjad/RiderProjects/C-_Ex1/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/amjad/.nuget/packages/",
-      "outputPath": "/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/home/amjad/RiderProjects/C-_Ex1/ConsoleApp1/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/amjad/.nuget/NuGet/NuGet.Config"

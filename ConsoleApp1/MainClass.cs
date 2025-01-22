@@ -9,7 +9,7 @@ public class MainClass
             {
                 Console.Clear();
                 Console.WriteLine("Inventory Management Menu:");
-                Console.WriteLine("1. Add Product");
+                Console.WriteLine("1. Add Product.");
                 Console.WriteLine("2. Show All Products");
                 Console.WriteLine("3. Edit Product");
                 Console.WriteLine("4. Delete Product");
