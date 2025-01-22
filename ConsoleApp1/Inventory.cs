@@ -66,6 +66,6 @@
         {
             return $"Product found: {products.First(x => x.Name == productName).Name},Price:{products.First(x=>x.Name==productName).Price},Quantity: {products.First(x => x.Name == productName).Quantity}";
         }
-        else return "Product not found..";
+        else return "Product not found.";
     }
     }
