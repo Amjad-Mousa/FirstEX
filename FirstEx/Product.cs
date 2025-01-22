@@ -1,4 +1,4 @@
-namespace MyNamespace;
+namespace ConsoleApp1;
 
 public class Product(string name, double price, int quantity)
 {
