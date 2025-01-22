@@ -1,0 +1,14 @@
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/amjad/RiderProjects/Backend_Ex1/ConsoleApp1/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
