@@ -19,5 +19,31 @@ public void ShowProducts()
     {
         System.Console.WriteLine($"ProductName:{products[0].Name}, Price:{products[0].Price}, Quantity:{products[0].Quantity}");
     }
+    
 }
+
+public bool FindProduct(string productName)
+{
+    foreach (var product in products)
+    {
+        if (product.Name == productName)
+        {
+            return true;
+        }
+    }
+    return false;
+ }
+
+public string EditProduct(string productName, string productPrice, string productQuantity)
+{
+    if (FindProduct(productName))
+    {
+        productPrice = productPrice;
+        productQuantity = productQuantity;
+        return "Product updated successfully.";
+    }
+    else return "Product not found.";
+}
+
+
 }
