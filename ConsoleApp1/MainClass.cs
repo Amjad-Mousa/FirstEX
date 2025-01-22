@@ -8,7 +8,7 @@ public class MainClass
             while (!exit)
             {
                 Console.Clear();
-                Console.WriteLine("Inventory Management Menu::");
+                Console.WriteLine("Inventory Management Menu:");
                 Console.WriteLine("1. Add Product");
                 Console.WriteLine("2. Show All Products");
                 Console.WriteLine("3. Edit Product");
